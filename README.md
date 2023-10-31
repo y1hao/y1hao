@@ -1,8 +1,6 @@
 ### 👋 Hi there
 
-Welcome to my GitHub account. This is my personal account, I also have a separate GitHub account for work: [YihaoOct](https://github.com/YihaoOct).
-
-I'm Yihao. I currently work with Octopus Deploy as a software engineer.
+Welcome to my GitHub account. I'm Yihao. I currently work as a software engineer.
 
 Occasionaly, I write my thoughts on programming in this repo: [y1hao/comments](https://github.com/y1hao/comments).
 
@@ -10,9 +8,6 @@ Here are some small but fun projects I built in the past:
 
 - [Octostache Playground](https://github.com/y1hao/octostache-playground)
   A live playground to try out [Octostache](https://github.com/OctopusDeploy/Octostache) syntax. It ports the C# library into WebAssembly and runs directly in browser.
-
-- [Crepe](https://github.com/y1hao/crepe)
-  Visualizing Docker image layers.
   
 - [Rain](https://github.com/y1hao/Rain)
   A visualization of development velocity of some popular open source repositories.
