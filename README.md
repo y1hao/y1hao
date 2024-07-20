@@ -2,8 +2,6 @@
 
 Welcome to my GitHub account. I'm Yihao. I currently work as a software engineer.
 
-Occasionaly, I write my thoughts on programming in this repo: [y1hao/comments](https://github.com/y1hao/comments).
-
 Here are some small but fun projects I built in the past:
 
 - [Octostache Playground](https://github.com/y1hao/octostache-playground)
